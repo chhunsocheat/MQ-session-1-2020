@@ -1,0 +1,228 @@
+2020-03-03 13:27:13.943 org.sleuthkit.autopsy.coreutils.ModuleSettings getConfigSetting
+INFO: File did not exist. Created file [Tags.properties]
+2020-03-03 13:27:14.29 org.sleuthkit.autopsy.keywordsearch.Server isRunning
+INFO: Solr server is running
+2020-03-03 13:27:15.278 org.sleuthkit.autopsy.imagegallery.PerCaseProperties getConfigSetting
+INFO: File did not exist. Created file [Image Gallery.properties]
+2020-03-03 13:27:15.422 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.25.2 loaded in native mode
+2020-03-03 13:27:15.479 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened Salivar (salivar_20200303_132712) in C:\Users\Gamer\Desktop\MQ 2020 session 2\MQ-session-1-2020\Digital Forensic\Salivar as the current case
+2020-03-03 13:27:15.781 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Correlation Engine, version = 4.14.0
+2020-03-03 13:27:15.789 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.14.0
+2020-03-03 13:27:15.797 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.14.0
+2020-03-03 13:27:15.805 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.14.0
+2020-03-03 13:27:15.814 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Exif Parser, version = 4.14.0
+2020-03-03 13:27:15.823 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.14.0
+2020-03-03 13:27:15.831 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.14.0
+2020-03-03 13:27:15.841 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.14.0
+2020-03-03 13:27:15.849 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.14.0
+2020-03-03 13:27:15.856 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2020-03-03 13:27:15.863 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Plaso, version = 4.14.0
+2020-03-03 13:27:15.871 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.14.0
+2020-03-03 13:27:15.872 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.14.0
+2020-03-03 13:27:15.874 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.14.0
+2020-03-03 13:27:15.875 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.14.0
+2020-03-03 13:27:26.194 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.14.0
+2020-03-03 13:27:26.195 org.sleuthkit.autopsy.coreutils.ModuleSettings setConfigSetting
+INFO: File did not exist. Created file [org.sleuthkit.autopsy.casemodule.AddImageWizardIngestConfigPanel.properties]
+2020-03-03 13:27:26.737 org.sleuthkit.autopsy.coreutils.ModuleSettings getConfigSetting
+INFO: File did not exist. Created file [LastDspUsed.properties]
+2020-03-03 13:27:26.739 org.sleuthkit.autopsy.casemodule.AddImageWizardSelectDspPanel getComponent
+WARNING: There was no properties file containing the last DataSourceProcessor used, Disk Image or VM will be selected as default selection
+2020-03-03 13:27:32.068 org.sleuthkit.autopsy.coreutils.ModuleSettings getConfigSetting
+INFO: File did not exist. Created file [org.sleuthkit.autopsy.casemodule.ImageDSProcessor.properties]
+2020-03-03 13:28:43.329 org.sleuthkit.autopsy.ingest.IngestPipelinesConfiguration getInstance
+INFO: Creating ingest module loader instance
+2020-03-03 13:28:43.463 org.sleuthkit.autopsy.ingest.IngestMonitor$MonitorTimerAction logMonitoredRootDirectory
+INFO: Monitoring disk space of C:\
+2020-03-03 13:28:43.463 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Starting ingest job 0
+2020-03-03 13:28:43.634 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer loadConfigFile
+INFO: Load successful
+2020-03-03 13:28:44.819 org.sleuthkit.autopsy.keywordsearch.Server isRunning
+INFO: Solr server is running
+2020-03-03 13:28:44.912 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Starting first stage analysis (data source = Hands-On1.E01, objId = 1, jobId = 0)
+2020-03-03 13:28:44.915 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Scheduling first stage data source and file level analysis tasks (data source = Hands-On1.E01, objId = 1, jobId = 0)
+2020-03-03 13:28:44.917 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Recent Activity analysis of Hands-On1.E01 (jobId=0) starting
+2020-03-03 13:28:44.92 org.sleuthkit.autopsy.recentactivity.Chrome getHistory
+INFO: Could not find any allocated Chrome history files.
+2020-03-03 13:28:44.921 org.sleuthkit.autopsy.recentactivity.Chrome getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2020-03-03 13:28:44.922 org.sleuthkit.autopsy.recentactivity.Chrome getCookie
+INFO: Didn't find any Chrome cookies files.
+2020-03-03 13:28:44.923 org.sleuthkit.autopsy.recentactivity.Chrome getLogins
+INFO: Didn't find any Chrome Login Data files.
+2020-03-03 13:28:44.923 org.sleuthkit.autopsy.recentactivity.Chrome getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2020-03-03 13:28:44.924 org.sleuthkit.autopsy.recentactivity.Chrome getDownload
+INFO: Didn't find any Chrome download files.
+2020-03-03 13:28:44.929 org.sleuthkit.autopsy.recentactivity.Firefox getHistory
+INFO: No FireFox history files found.
+2020-03-03 13:28:44.93 org.sleuthkit.autopsy.recentactivity.Firefox getBookmark
+INFO: Didn't find any firefox bookmark files.
+2020-03-03 13:28:44.93 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadPreVersion24
+INFO: Didn't find any pre-version-24.0 Firefox download files.
+2020-03-03 13:28:44.931 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadVersion24
+INFO: Didn't find any version-24.0 Firefox download files.
+2020-03-03 13:28:44.932 org.sleuthkit.autopsy.recentactivity.Firefox getCookie
+INFO: Didn't find any Firefox cookie files.
+2020-03-03 13:28:44.932 org.sleuthkit.autopsy.recentactivity.Firefox getFormsHistory
+INFO: No FireFox form history files found.
+2020-03-03 13:28:44.933 org.sleuthkit.autopsy.recentactivity.Firefox getAutofillProfiles
+INFO: Didn't find any Firefox Autofill Profiles files.
+2020-03-03 13:28:44.934 org.sleuthkit.autopsy.recentactivity.ExtractIE getBookmark
+INFO: Didn't find any IE bookmark files.
+2020-03-03 13:28:44.935 org.sleuthkit.autopsy.recentactivity.ExtractIE getCookie
+INFO: Didn't find any IE cookies files.
+2020-03-03 13:28:44.936 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: Pasco results path: C:\Users\Gamer\Desktop\MQ 2020 session 2\MQ-session-1-2020\Digital Forensic\Salivar\Temp\RecentActivity\IE\results
+2020-03-03 13:28:44.936 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: Pasco2 home: C:\Program Files\Autopsy-4.14.0\autopsy\pasco2
+2020-03-03 13:28:44.938 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: No InternetExplorer history files found.
+2020-03-03 13:28:44.942 org.sleuthkit.autopsy.recentactivity.RecentDocumentsByLnk getRecentDocuments
+INFO: Didn't find any recent files.
+2020-03-03 13:28:44.945 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
+INFO: Processing 0 blackboard artifacts.
+2020-03-03 13:28:44.945 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
+INFO: Extracted 0 queries from the blackboard
+2020-03-03 13:28:44.946 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer process
+INFO: Search Engine stats: 
+Google : 0
+Yahoo : 0
+Twitter : 0
+LinkedIn : 0
+Facebook : 0
+Bing : 0
+Baidu : 0
+Sogou : 0
+Soso : 0
+Youdao : 0
+Yandex : 0
+Biglobe : 0
+Linkestan : 0
+Parseek : 0
+Parset : 0
+
+2020-03-03 13:28:45.071 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner startJob
+INFO: Adding job 0
+2020-03-03 13:28:45.072 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner startJob
+INFO: Resetting periodic search time out to default value
+2020-03-03 13:28:45.113 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer complete
+INFO: Search Engine URL Query Analyzer has completed.
+2020-03-03 13:28:45.113 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Recent Activity analysis of Hands-On1.E01 (jobId=0) finished
+2020-03-03 13:28:45.114 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Encryption Detection analysis of Hands-On1.E01 (jobId=0) starting
+2020-03-03 13:28:45.116 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Encryption Detection analysis of Hands-On1.E01 (jobId=0) finished
+2020-03-03 13:28:45.117 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Virtual Machine Extractor analysis of Hands-On1.E01 (jobId=0) starting
+2020-03-03 13:28:45.117 org.sleuthkit.autopsy.modules.vmextractor.VMExtractorIngestModule process
+INFO: Looking for virtual machine files in data source Hands-On1.E01
+2020-03-03 13:28:45.12 org.sleuthkit.autopsy.modules.vmextractor.VMExtractorIngestModule process
+INFO: No virtual machine files found in data source Hands-On1.E01
+2020-03-03 13:28:45.12 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Virtual Machine Extractor analysis of Hands-On1.E01 (jobId=0) finished
+2020-03-03 13:28:45.12 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Android Analyzer analysis of Hands-On1.E01 (jobId=0) starting
+2020-03-03 13:28:45.607 AndroidIngestModule process
+INFO: running 22 analyzers
+2020-03-03 13:28:45.684 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Android Analyzer analysis of Hands-On1.E01 (jobId=0) finished
+2020-03-03 13:28:49.856 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Finished first stage analysis (data source = Hands-On1.E01, objId = 1, jobId = 0)
+2020-03-03 13:28:49.856 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Keyword search ingest module instance 1 shutting down
+2020-03-03 13:28:49.859 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Keyword search ingest module instance 0 shutting down
+2020-03-03 13:28:49.859 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner endJob
+INFO: Commiting search index before final search for search job 0
+2020-03-03 13:28:50.06 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Starting final search for search job 0
+2020-03-03 13:28:50.06 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Checking for previous search for search job 0 before executing final search
+2020-03-03 13:28:50.061 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Kicking off final search for search job 0
+2020-03-03 13:28:50.062 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Waiting for final search for search job 0
+2020-03-03 13:28:50.128 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$Searcher doInBackground
+INFO: Searcher took 0 secs to run (final = true)
+2020-03-03 13:28:50.128 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$SearchJobInfo searchNotify
+INFO: Notifying after finishing search
+2020-03-03 13:28:50.129 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Final search for search job 0 completed
+2020-03-03 13:28:50.129 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner endJob
+INFO: No more search jobs. Stopping periodic search task
+2020-03-03 13:28:50.139 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Indexed files count: 8
+2020-03-03 13:28:50.144 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Indexed file chunks count: 8
+2020-03-03 13:28:50.144 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule postIndexSummary
+INFO: Keyword Indexing Completed: <table border=0><tr><td>Files with known types</td><td>2</td></tr><tr><td>Files with general strings extracted</td><td>5</td></tr><tr><td>Metadata only was indexed</td><td>0</td></tr><tr><td>Error (indexer)</td><td>0</td></tr><tr><td>Error (text extraction)</td><td>0</td></tr><tr><td>Error (I/O)</td><td>0</td></tr></table>
+2020-03-03 13:28:50.147 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Starting second stage analysis (data source = Hands-On1.E01, objId = 1, jobId = 0)
+2020-03-03 13:28:50.147 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Scheduling second stage data source level analysis tasks (data source = Hands-On1.E01, objId = 1, jobId = 0)
+2020-03-03 13:28:50.148 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Data Source Integrity analysis of Hands-On1.E01 (jobId=0) starting
+2020-03-03 13:28:50.151 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Total chunks = 45
+2020-03-03 13:28:50.152 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Starting hash verification of Hands-On1.E01
+2020-03-03 13:28:50.193 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Hash calculated from Hands-On1.E01: c9bfd4d363ce0af8c5b94078737b68d8
+2020-03-03 13:28:50.193 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Hash calculated from Hands-On1.E01: 85bf2e56439c5261333263477863b399c65ca97b
+2020-03-03 13:28:50.194 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline process
+INFO: Data Source Integrity analysis of Hands-On1.E01 (jobId=0) finished
+2020-03-03 13:28:50.194 org.sleuthkit.autopsy.ingest.DataSourceIngestJob logInfoMessage
+INFO: Finished analysis (data source = Hands-On1.E01, objId = 1, jobId = 0)
+2020-03-03 13:28:50.198 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 0 completed
+2020-03-03 13:29:07.661 org.sleuthkit.autopsy.texttranslation.translators.GoogleTranslator loadTranslator
+INFO: No credentials file has been provided for Google Translator
+2020-03-03 13:29:07.661 org.sleuthkit.autopsy.texttranslation.translators.GoogleTranslator loadTranslator
+WARNING: Credentials were not successfully made, no translations will be available from the GoogleTranslator
+2020-03-03 13:33:29.005 org.sleuthkit.autopsy.coreutils.ModuleSettings getConfigSetting
+INFO: File did not exist. Created file [timeline.properties]
+2020-03-03 13:37:31.93 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Stopping Solr server from: C:\Program Files\Autopsy-4.14.0\autopsy\solr
+2020-03-03 13:37:31.93 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Running Solr command: [C:\Program Files\Autopsy-4.14.0\jre\bin\java, -Xmx512m, -DSTOP.PORT=34343, -Djetty.port=23232, -DSTOP.KEY=jjk#09s, -jar, start.jar, --stop]
+2020-03-03 13:37:31.954 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Finished running Solr command
+2020-03-03 13:37:31.955 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Waiting for Solr server to stop
+2020-03-03 13:37:32.679 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Finished stopping Solr server
+2020-03-03 13:37:32.679 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2020-03-03 13:37:32.695 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case Salivar (salivar_20200303_132712) in C:\Users\Gamer\Desktop\MQ 2020 session 2\MQ-session-1-2020\Digital Forensic\Salivar
+2020-03-03 13:37:34.705 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Shutting down image gallery controller for case Salivar (salivar_20200303_132712)
+2020-03-03 13:37:34.707 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+INFO: Closing the drawable.db
+2020-03-03 13:37:34.708 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Completed shut down of image gallery controller for case Salivar (salivar_20200303_132712)
